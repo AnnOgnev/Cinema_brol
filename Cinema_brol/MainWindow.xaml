@@ -39,6 +39,9 @@
         <Button Content="30" HorizontalAlignment="Left" Margin="434,290,0,0" VerticalAlignment="Top" Width="45" Height="33"/>
         <Button Content="31" HorizontalAlignment="Left" Margin="503,290,0,0" VerticalAlignment="Top" Width="45" Height="33"/>
         <Button Content="32" HorizontalAlignment="Left" Margin="568,290,0,0" VerticalAlignment="Top" Width="45" Height="33"/>
+        <Image HorizontalAlignment="Left" Height="75" Margin="277,10,0,0" VerticalAlignment="Top" Width="227" Source="1200x630.png"/>
+        <TextBlock HorizontalAlignment="Left" Margin="682,358,0,0" TextWrapping="Wrap" Text="Запасной выход" VerticalAlignment="Top" Height="51" Width="78"/>
+        <TextBlock HorizontalAlignment="Left" Margin="682,21,0,0" TextWrapping="Wrap" Text="Выход" VerticalAlignment="Top" Height="51" Width="78"/>
 
     </Grid>
 </Window>
